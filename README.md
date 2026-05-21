@@ -116,11 +116,7 @@ The model achieves good prediction accuracy and demonstrates the importance of d
 https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 
----
 
-# README — Credit Card Fraud Detection
-
-```markdown
 # Credit Card Fraud Detection using Machine Learning
 
 ## Project Overview
