@@ -103,7 +103,6 @@ Target Variable:
 
 Install required libraries:
 
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Run the Project
@@ -222,7 +221,7 @@ SMOTE (Synthetic Minority Oversampling Technique) is used to balance the dataset
 
 Install required libraries:
 
-```bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 
 ## Run the Project
@@ -238,11 +237,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 
 
----
 
-# README — Movie Rating Prediction
-
-```markdown
 # Movie Rating Prediction using Machine Learning
 
 ## Project Overview
@@ -356,7 +351,6 @@ The project converts:
 
 Install required libraries:
 
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Run the Project
